@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "bookNow": "Book Now!"
+  },
+  "hero": {
+    "newPups": "👋 We're accepting new pups!",
+    "titlePrefix": "From Scruffy to",
+    "titleSuffix": "Fluffy.",
+    "description": "We're the friendly spot down the street where your dog gets pampered, played with, and styled. No stress, just tail wags.",
+    "ctaMain": "Get an Appointment",
+    "ctaSecondary": "Check Prices",
+    "socialProof": "Loved by 200+ local dogs!",
+    "squeakyClean": "Squeaky Clean!"
+  },
+  "services": {
+    "badge": "Menu",
+    "title": "What we do best",
+    "fullCut": {
+      "title": "The Full Cut",
+      "desc": "Bath, blow-dry, nail trim, ear cleaning, and a haircut that makes them look like a puppy again.",
+      "price": "From $85"
+    },
+    "bathTidy": {
+      "title": "Bath & Tidy",
+      "desc": "Just the essentials! A deep clean scrub, brush out, and trimming the tricky spots (face/feet).",
+      "price": "From $55"
+    },
+    "miniSpa": {
+      "title": "Mini Spa",
+      "desc": "Perfect for quick visits. Nail grinding, teeth brushing, and a blueberry facial scrub.",
+      "price": "From $30"
+    }
+  },
+  "reviews": {
+    "title": "The \"Good Boy\" Reports",
+    "stars": "5 STARS",
+    "woof": "WOOF!",
+    "review1": {
+      "text": "\"Sofia is the only person my Golden Doodle doesn't hide from. She gave him the cutest teddy bear cut!\"",
+      "author": "Jessica & Barnaby",
+      "breed": "Golden Doodle"
+    },
+    "review2": {
+      "text": "\"Super quick, super friendly. My pug smells like vanilla cupcakes now. Highly recommend!\"",
+      "author": "Marcus & Frank",
+      "breed": "Pug"
+    }
+  },
+  "footer": {
+    "cta": "Ready for a spa day?",
+    "subtext": "Give us a call or drop by. We usually have treats.",
+    "visit": "Visit Us",
+    "call": "Call Us",
+    "hours": "Hours",
+    "address": "Tsnketi Highway 29, Tbilisi, Georgia",
+    "phone": "(+995) 595 488 842",
+    "schedule": "Mon-Sun, 9am - 6pm",
+    "copy": "Sofia's Grooming. Built with ❤️ and 🦴."
+  },
+  "Booking": {
+    "title": "Book a Spot | Sofia's Grooming",
+    "header": "Let's get you in!",
+    "subheader": "Takes less than 2 minutes to book a spot.",
+    "success": {
+      "emoji": "🎉",
+      "title": "Wags & Kisses!",
+      "message": "We've received {petName}'s request for a {service}. We'll text you shortly to confirm!",
+      "backHome": "Back to Home"
+    },
+    "steps": {
+      "petInfo": {
+        "title": "Who's coming over?",
+        "namePlaceholder": "Pet's Name",
+        "breedPlaceholder": "What breed are they?",
+        "continue": "Continue"
+      },
+      "service": {
+        "title": "Pick the Pamper",
+        "options": {
+          "fullCut": "The Full Cut",
+          "bathTidy": "Bath & Tidy",
+          "miniSpa": "Mini Spa"
+        },
+        "back": "Back",
+        "next": "Almost there!"
+      },
+      "date": {
+        "title": "Final Step!",
+        "question": "When should we expect you and {petName}?",
+        "submit": "Book Spot!",
+        "change": "Change Details"
+      }
+    },
+
+    "footer": {
+      "back": "Back to Home"
+    }
+  },
+  "gallery": {
+    "badge": "📸 Wall of Fame",
+    "title": "Fresh from the Tub",
+    "description": "Warning: Excessive cuteness ahead.",
+    "instagram": "See more on our Instagram",
+    "items": {
+      "rusty": { "name": "Rusty", "tag": "Transformation" },
+      "bean": { "name": "Bean", "tag": "Puppy Love" },
+      "lola": { "name": "Lola", "tag": "Style Icon" },
+      "cooper": { "name": "Cooper", "tag": "Action Shot" },
+      "sparky": { "name": "Sparky", "tag": "Fresh Cut" },
+      "luna": { "name": "Luna", "tag": "Bubble Time" }
+    }
+  },
+  "location":{
+    "title": "Location"
+  }
+}
