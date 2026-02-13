@@ -19,16 +19,8 @@ const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
 });
-const playfair = Playfair_Display({
-  subsets: ["latin"],
-  weight: ["400", "700"],
-  variable: "--font-playfair",
-});
+
 const space = Space_Grotesk({ subsets: ["latin"], variable: "--font-space" });
-const notoSans = Noto_Serif_Georgian({
-  subsets: ["latin"],
-  variable: "--font-noto-serif",
-});
 
 export const metadata: Metadata = {
   title: "Sofia's grooming salon",
@@ -50,7 +42,7 @@ export default async function RootLayout({
   return (
     <html
       lang={locale}
-      className={`${playfair.variable} ${space.variable} ${geistSans.variable} ${geistMono.variable} ${notoSans.variable}`}
+      className={`${geistSans.variable} ${geistMono.variable}`}
     >
       <body className="font-sans antialiased bg-[#0a0a0a] text-white selection:bg-white selection:text-black">
         <NextIntlClientProvider locale={locale} messages={messages}>
